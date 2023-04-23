@@ -1,0 +1,22 @@
+Pilóta,Csapat,Ország,Pontszám,Legjobb helyezés
+Giovinazzi,Alfa Romeo,Italy,21,5
+Sainz,Ferrari,Spain,536,2
+Leclerc,Ferrari,Monaco,560,1
+Ricciardo,McLaren,Australia,1274,1
+Ocon,Alpine,France,272,1
+Alonso,Alpine,Spain,1980,1
+Russell,Williams,United Kingdom,19,2
+Raikkönen,Alfa Romeo,Finland,1873,1
+Stroll,Aston Martin,Canada,176,3
+Norris,McLaren,United Kingdom,306,2
+Hamilton,Mercedes,United Kingdom,4166,1
+Verstappen,Red Bull Racing,Netherlands,1557,1
+Schumacher,Haas,Germany,0,12
+Latifi,Williams,Canada,7,7
+Mazepin,Haas,RAF,0,14
+Gasly,AlphaTauri,France,309,1
+Kubica,Alfa Romeo,Poland,274,1
+Vettel,Aston Martin,Germany,3061,1
+Perez,Red Bull Racing,Mexico,896,1
+Bottas,Mercedes,Finland,1738,1
+Tsunoda,AlphaTauri,Japan,32,4
