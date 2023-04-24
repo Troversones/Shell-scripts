@@ -18,3 +18,14 @@ BEGIN {
         }
     }
 }
+#Alternatív megoldás
+#{
+#    for (i = 1; i <= NF; i++) {
+#        if ($i ~ /^[0-9]+$/) {
+#            n = int(sqrt(($i - 1) / 3))
+#            if ($i == 3*n*(n+1) + 1) {
+#                print $i > "output.txt"
+#            }
+#        }
+#    }
+#}
